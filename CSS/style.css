@@ -1,0 +1,84 @@
+body
+{
+background-image: url("../images/background.jpg");
+background-size: 130%;
+background-repeat: no-repeat;
+}
+
+
+
+figcaption { 
+   position: relative; 
+   color: rgb(182, 11, 11); 
+   font-size: 22px;
+   text-align:right;
+ 
+
+ }
+
+header
+{
+background-image: url("");
+}
+
+*
+{
+margin-left: 30px;
+margin-right: 125px;
+}
+
+h1
+{
+font-style: normal;
+font-size: 34px;  
+color: red;
+text-decoration: underline;
+}
+
+h2
+{
+   font-style: normal;
+   font-size: 28px;  
+   color: orangered;
+   text-decoration: underline;
+}
+
+p 
+{
+font-style:normal;
+font-size: 18px;
+}
+
+p.note
+{
+font-style: oblique;
+background-color: burlywood;
+}
+
+
+article > h1 
+{
+font-style: italic;
+font-size: x-large;
+}
+article > p 
+{
+   font-style: italic;
+}
+
+a
+{
+font-size: 26px;
+color: cyan;
+}
+a:hover
+{
+background-color: darkcyan;
+}
+
+
+dl
+{
+font-size: 18px;
+}
+
