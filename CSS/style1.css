@@ -64,3 +64,14 @@ header{
     background-color: skyblue;
     text-align: center;
 }
+.wrapper
+{
+    margin: auto;
+    width:70%;
+}
+.contenttyyli
+{
+    flex-flow: column;
+    background-color: rgb(166, 249, 255); 
+    min-height: 1200px;
+}
