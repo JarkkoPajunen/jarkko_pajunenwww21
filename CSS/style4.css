@@ -1,0 +1,41 @@
+.main
+{
+background-color: aquamarine;
+}
+
+body
+{
+    background-color: rgb(209, 231, 230);
+}
+
+h1
+{
+font-size: 34px;
+color: black;
+
+}
+
+h2
+{
+color:black;
+font-size: 28px;
+}
+
+img
+{
+border: 1px solid;
+flex-wrap: wrap;
+}
+
+input[type=text], select, textarea
+{
+    width: 100%;
+    padding: 8px;
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    resize: none;
+}
+
